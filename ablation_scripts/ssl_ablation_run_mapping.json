@@ -1,0 +1,91 @@
+{
+    "simclr": {
+        "resnet18": {
+            "0.45": "9thahdpn",
+            "0.15": "urvbhkqt",
+            "0.05": "4p036ikl",
+            "0.02": "b9swc8vf",
+            "0.01": "ufn6a2l8"
+        },
+        "vit-tiny": {
+            "0.45": "vrmh5rju",
+            "0.15": "sz8237pv",
+            "0.05": "dhet6opb",
+            "0.02": "rdvrcnye",
+            "0.01": "5ovu5qgo"
+        }
+    },
+    "byol": {
+        "resnet18": {
+            "0.45": "hge42zk0",
+            "0.15": "tfga1a69",
+            "0.05": "gfp0knu5",
+            "0.02": "dmdnvuph",
+            "0.01": "5wedf7cp"
+        },
+        "vit-tiny": {
+            "0.45": "u0oiv2ir",
+            "0.15": "xm4yn3rb",
+            "0.05": "66ic8225",
+            "0.02": "jbldbp07",
+            "0.01": "ikv3go4b"
+        }
+    },
+    "barlow_twins": {
+        "resnet18": {
+            "0.45": "9vte7nb5",
+            "0.15": "x7ha2msx",
+            "0.05": "yy7jv0br",
+            "0.02": "i6dfsmb4",
+            "0.01": "zgqrl2hp"
+        },
+        "vit-tiny": {
+            "0.45": "6x8943r8",
+            "0.15": "m9sn0z2j",
+            "0.05": "3wm73w0p",
+            "0.02": "ytrpl77v",
+            "0.01": "kxuppo4e"
+        }
+    },
+    "mae": {
+        "mae-vit-tiny": {
+            "0.45": "f6yssm4r",
+            "0.15": "qfy4hcf5",
+            "0.05": "46kenks9",
+            "0.02": "0cxd8doc",
+            "0.01": "3kcdld7r"
+        }
+    },
+    "supervised": {
+        "resnet18": {
+            "0.45": "m10dujvp",
+            "0.15": "dkiskxjg",
+            "0.05": "jehwo0bl",
+            "0.02": "xejfd52b",
+            "0.01": "2aubfct0"
+        },
+        "vit-tiny": {
+            "0.45": "mqyhabyc",
+            "0.15": "dw8qx46z",
+            "0.05": "61exnnt5",
+            "0.02": "0gawm6x3",
+            "0.01": "uz9do5w7"
+        }
+    },
+    "dino": {
+        "resnet18": {
+            "0.45": "wu2z6eld",
+            "0.15": "s0h8pino",
+            "0.05": "mgxo0u4y",
+            "0.02": "i5mfwlfm",
+            "0.01": "cx71ouvp"
+        },
+        "vit-tiny": {
+            "0.45": "8sl70cii",
+            "0.15": "jmv748g4",
+            "0.05": "d215zvly",
+            "0.02": "vxhayp5p",
+            "0.01": "3ikbozbt"
+        }
+    }
+}
