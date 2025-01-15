@@ -1,6 +1,4 @@
-# SSL-anomaly
-
-## Setup
+# Self-Supervised Learning in the Wild: Favor Joint Embedding Methods
 
 ## Setup
 
@@ -117,3 +115,18 @@ bash augmentations_ablation.sh <img_size> <batch_size>
 
 Substitute `<img_size>` with the desired resolution and `<batch_size>` with the desired
 batch size.
+
+## Citation
+
+If you find this repository useful, please consider citing the following paper:
+
+```bibtex
+@inproceedings{
+    otero2024anomaly,
+    title={Anomaly Detection In The Wild: Can {SSL} Handle Strong Distribution Imbalances?},
+    author={Daniel Otero and Rafael Mateus and Randall Balestriero},
+    booktitle={NeurIPS 2024 Workshop: Self-Supervised Learning - Theory and Practice},
+    year={2024},
+    url={https://openreview.net/forum?id=cVYBzbqWX5}
+}
+```
